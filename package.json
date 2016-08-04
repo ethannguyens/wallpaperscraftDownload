@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ethannguyens/wallpaperscraftDownload#readme",
   "dependencies": {
+    "eslint": "^3.2.2",
     "phantomjs": "^2.1.7"
   }
 }
