@@ -1,0 +1,22 @@
+{
+  "name": "wallpaperscraft-download",
+  "version": "1.0.0",
+  "description": "Mini app used to download wallpapers in different size on wallpaperscraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethannguyens/wallpaperscraftDownload.git"
+  },
+  "author": "Ethan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethannguyens/wallpaperscraftDownload/issues"
+  },
+  "homepage": "https://github.com/ethannguyens/wallpaperscraftDownload#readme",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
